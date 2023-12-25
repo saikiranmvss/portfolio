@@ -946,11 +946,16 @@ section {
 .testimonials .testimonial-item .testimonial-img {
   width: 120px;
   border-radius: 50%;
+<<<<<<< HEAD
   height: 120px;
   border: 4px solid #fff;
   margin: 0 auto;
   object-fit: cover;
   object-position: top;
+=======
+  border: 4px solid #fff;
+  margin: 0 auto;
+>>>>>>> 8d9a505 (load)
 }
 
 .testimonials .testimonial-item h3 {
@@ -1128,7 +1133,11 @@ section {
   padding: 10px 12px;
 }
 
+<<<<<<< HEAD
 .contact .php-email-form button[type=button] {
+=======
+.contact .php-email-form button[type=submit] {
+>>>>>>> 8d9a505 (load)
   background: #0563bb;
   border: 0;
   padding: 10px 35px;
@@ -1137,7 +1146,11 @@ section {
   border-radius: 50px;
 }
 
+<<<<<<< HEAD
 .contact .php-email-form button[type=button]:hover {
+=======
+.contact .php-email-form button[type=submit]:hover {
+>>>>>>> 8d9a505 (load)
   background: #0678e3;
 }
 
@@ -1209,6 +1222,7 @@ section {
 
 #footer .credits {
   font-size: 13px;
+<<<<<<< HEAD
 }
 
 ::-webkit-scrollbar {
@@ -1249,3 +1263,6 @@ section {
     justify-content: center;
   }
 }
+=======
+}
+>>>>>>> 8d9a505 (load)
