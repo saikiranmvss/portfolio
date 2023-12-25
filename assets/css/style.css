@@ -951,7 +951,6 @@ section {
   margin: 0 auto;
   object-fit: cover;
   object-position: top;
-
 }
 
 .testimonials .testimonial-item h3 {
@@ -1129,11 +1128,7 @@ section {
   padding: 10px 12px;
 }
 
-<<<<<<< HEAD
 .contact .php-email-form button[type=button] {
-=======
-.contact .php-email-form button[type=submit] {
->>>>>>> 1e66d18 (load)
   background: #0563bb;
   border: 0;
   padding: 10px 35px;
@@ -1214,7 +1209,6 @@ section {
 
 #footer .credits {
   font-size: 13px;
-<<<<<<< HEAD
 }
 
 ::-webkit-scrollbar {
