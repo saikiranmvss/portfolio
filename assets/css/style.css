@@ -1240,3 +1240,9 @@ section {
   width: 50px;
   display:none;
 }
+
+@media screen and (max-width: 768px) {
+  #hero .social-links{
+    justify-content: center;
+  }
+}
