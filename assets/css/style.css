@@ -1249,3 +1249,11 @@ section {
     justify-content: center;
   }
 }
+
+.swiper {
+  padding: 1rem;
+}
+.swiper-slide {
+  width: 100%;
+}
+
