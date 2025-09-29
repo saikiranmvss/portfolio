@@ -1975,3 +1975,33 @@ section,
 .swiper {
   padding: 1rem;
 }
+
+.resume-header {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* keeps both centered horizontally */
+  gap: 12px; /* space between text and icon */
+}
+
+.resume-header h2 {
+  margin: 0;
+}
+
+.download-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  height: 45px;
+  background-color: #7f503a;
+  border-radius: 50%;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.download-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
